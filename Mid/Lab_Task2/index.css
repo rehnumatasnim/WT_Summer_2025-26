@@ -1,0 +1,98 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    background: #f4f4f4;
+}
+
+/* Header */
+header {
+    background: #27042b;
+    color: rgb(98, 43, 101);
+    text-align: center;
+    padding: 20px;
+}
+
+/* Navigation */
+nav {
+    background: #32154b;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: rgb(242, 208, 245);
+    text-decoration: none;
+    margin: 10px;
+    padding: 7px 15px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background: #a965dd;
+    border-radius: 5px;
+}
+
+/* Main */
+main {
+    padding: 20px;
+}
+
+/* Form Section */
+.form-section {
+    background: rgb(235, 217, 238);
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+/* Inputs */
+input, select, textarea {
+    width: 95%;
+    padding: 10px;
+    margin: 5px 0 10px 0;
+    border: 1px solid #aaa;
+}
+.radio-group input{
+    width: auto;
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+.radio-group label{
+    display: inline;
+    margin-right: 15px;
+}
+
+.radio-group{
+    margin-bottom: 15px;
+}
+
+/* Radio */
+.radio-group {
+    margin-bottom: 15px;
+}
+
+/* Button */
+button {
+    background: #230829;
+    color: white;
+    padding: 10px;
+    border: none;
+    width: 100%;
+}
+
+button:hover {
+    background: #270432;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #17202a;
+    color: white;
+    margin-top: 20px;
+}
