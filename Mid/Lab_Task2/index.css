@@ -4,7 +4,6 @@ body {
     background: #f4f4f4;
 }
 
-/* Header */
 header {
     background: #27042b;
     color: rgb(98, 43, 101);
@@ -12,7 +11,6 @@ header {
     padding: 20px;
 }
 
-/* Navigation */
 nav {
     background: #32154b;
     text-align: center;
@@ -32,12 +30,10 @@ nav a:hover {
     border-radius: 5px;
 }
 
-/* Main */
 main {
     padding: 20px;
 }
 
-/* Form Section */
 .form-section {
     background: rgb(235, 217, 238);
     padding: 20px;
@@ -47,7 +43,6 @@ main {
     border-radius: 10px;
 }
 
-/* Inputs */
 input, select, textarea {
     width: 95%;
     padding: 10px;
@@ -70,12 +65,10 @@ input, select, textarea {
     margin-bottom: 15px;
 }
 
-/* Radio */
 .radio-group {
     margin-bottom: 15px;
 }
 
-/* Button */
 button {
     background: #230829;
     color: white;
@@ -88,7 +81,6 @@ button:hover {
     background: #270432;
 }
 
-/* Footer */
 footer {
     text-align: center;
     padding: 20px;
